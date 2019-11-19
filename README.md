@@ -24,7 +24,7 @@ $ bash pip install -U numpy
 Also I assume that you already have pip installition on your Python development envoiremnt or virtual envoriment. 
 
 ## Usage
-1-) Clone the all files to a folder.
-2-) Open your favorite editor.
-3-) Locate to the folder that you created just before
-4-) Run the code.
+* Clone the all files to a folder.
+* Open your favorite editor.
+* Locate to the folder that you created just before
+* Run the code.
